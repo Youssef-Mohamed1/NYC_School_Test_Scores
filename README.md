@@ -66,4 +66,4 @@ Install the required packages using pip:
     pip install pandas numpy
 Running the Analysis
 Run the Jupyter notebooks or Python scripts in the notebooks or src directory to reproduce the analysis and generate the results.
-
+and make sure to have the csv file in the same directory as the python file.
